@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: big-shoulders, sans-serif;
+    font-family: 'big-shoulders', sans-serif;
     font-weight: 900;
     color: black;
 }
@@ -15,7 +15,7 @@ body {
 /* headings and logo */
 
 h1, h2 {
-    font-family: source-sans-pro, sans-serif;
+    font-family: 'source-sans-pro', sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
     color:black;
@@ -50,4 +50,41 @@ h1, h2 {
 
 #menu a:hover {
     border-bottom: 1px solid black;
+}
+
+.active {
+    border-bottom: 1px solid black;
+}
+
+/* hero image */
+
+#cover-text, #cover-text h2 {
+    color: white;
+}
+
+#hero-image {
+    height: 500px;
+    width: 100%;
+    background: url(../images/volcano_hero-image.jpg) no-repeat center center;
+    background-size: cover;
+    }
+
+#cover-text {
+    font-size: 150%;
+    font-family: 'big-shoulders', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 75%;
+    height: 250px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(227, 23, 23, .7);
+
+    bottom: 130px;
+    right: 150px;
+
+    position: absolute;
 }
