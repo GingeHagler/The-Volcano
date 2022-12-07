@@ -7,15 +7,16 @@
 }
 
 body {
-    font-family: 'big-shoulders', sans-serif;
+    font-family: 'source sans pro', sans-serif;
     font-weight: 900;
     color: black;
 }
 
 /* headings and logo */
 
+
 h1, h2 {
-    font-family: 'source-sans-pro', sans-serif;
+    font-family: 'big shoulders', sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
     color:black;
