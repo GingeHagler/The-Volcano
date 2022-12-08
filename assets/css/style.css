@@ -10,6 +10,7 @@ body {
     font-family: 'source sans pro', sans-serif;
     font-weight: 900;
     color: black;
+    
 }
 
 /* headings and logo */
@@ -109,7 +110,16 @@ h1, h2 {
 
 /* sessions */
 
+ #sessions {
+    background-image: url(../images/mmh.jpg);
+    padding-top: 200px;
+    padding-bottom: 200px;     
+ }
 
+ /* gallery */
+
+ #gallery {
+ 
 /* footer */
 
 footer {
