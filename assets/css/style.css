@@ -141,7 +141,23 @@ h2  {
     padding: 100px 20px 100px 20px; 
 }
 
+.left-col {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
 
+.right-col {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+
+.center-col {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
 
 /* gallery */
 
@@ -165,9 +181,11 @@ h2  {
     width: 100%;
 }
 
-/* sessions */
+/* testimonials */
 
-
+#testimonials {
+    padding: 100px 20px 100px 20px; 
+}
 
 .left-col {
     padding-top: 30px;
@@ -187,8 +205,31 @@ h2  {
     float: left;
 }
 
+
 /* footer */
 
 footer {
     height: 75px;
+}
+
+#contact {
+    padding: 100px 20px 100px 20px; 
+}
+
+.left-col {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+.right-col {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+
+.center-col {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
 }
