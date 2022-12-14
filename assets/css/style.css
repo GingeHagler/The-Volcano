@@ -210,10 +210,16 @@ h2  {
 
 footer {
     height: 75px;
+    background: white;
+}
+
+#contact h2, #contact p {
+    color: black;
 }
 
 #contact {
     padding: 100px 20px 100px 20px; 
+    background: white;
 }
 
 .left-col {
