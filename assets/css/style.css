@@ -140,6 +140,10 @@ p {
     padding: 100px 20px 100px 20px;
 }
 
+#sessions h2 {
+    text-decoration: underline;
+}
+
 .left-col {
     padding-top: 30px;
     width: 33%;
@@ -165,6 +169,10 @@ p {
     background: white;
 }
 
+#gallery h2 {
+    text-decoration: underline;
+}
+
 #gallery h2,
 #gallery p {
     color: black;
@@ -181,10 +189,16 @@ p {
     width: 100%;
 }
 
+
+
 /* testimonials */
 
 #testimonials {
     padding: 100px 20px 100px 20px;
+}
+
+#testimonials h2 {
+    text-decoration: underline;
 }
 
 .left-col {
@@ -255,6 +269,11 @@ p {
 footer {
     height: 75px;
     background: white;
+}
+
+#contact h2 {
+    text-decoration: underline;
+    text-underline-offset: 0.5em;
 }
 
 #contact h2,
