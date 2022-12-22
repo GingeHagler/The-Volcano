@@ -4,3 +4,33 @@ The Volcano is a website for a garage gym providing personal training sessions. 
 
 Features
 
+Navigation
+
+The Header
+
+The Sessions Section
+
+The Gallery Section
+
+The Testimonials Section
+
+The Contact Section
+
+Testing
+
+Bugs
+
+Validator Testing
+
+Unfixed Bugs
+
+Deployment
+
+Credits
+
+Content
+
+Media 
+
+
+

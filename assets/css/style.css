@@ -39,6 +39,7 @@ body {
     background: darkred;
     transition: 0.3s;
     z-index: 1;
+    color: white;
 }
 
 h1,
@@ -61,7 +62,7 @@ p {
     float: left;
     font-size: 280%;
     margin-left: 30px;
-    color: black;
+    color: white; 
 }
 
 /* navigation links */
@@ -142,6 +143,7 @@ p {
 
 #sessions h2 {
     text-decoration: underline;
+    text-underline-offset: 0.25em;
 }
 
 .left-col {
@@ -155,7 +157,7 @@ p {
     width: 33%;
     float: right;
 }
-
+  
 .center-col {
     padding-top: 30px;
     width: 33%;
@@ -171,6 +173,7 @@ p {
 
 #gallery h2 {
     text-decoration: underline;
+    text-underline-offset: 0.25em;
 }
 
 #gallery h2,
@@ -199,6 +202,7 @@ p {
 
 #testimonials h2 {
     text-decoration: underline;
+    text-underline-offset: 0.25em;
 }
 
 .left-col {
@@ -273,7 +277,7 @@ footer {
 
 #contact h2 {
     text-decoration: underline;
-    text-underline-offset: 0.5em;
+    text-underline-offset: 0.25em;
 }
 
 #contact h2,
