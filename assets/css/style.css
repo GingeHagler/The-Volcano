@@ -18,7 +18,6 @@ body {
     min-width: 320px;
 }
 
-
 .row {
     overflow: auto;
 }
@@ -68,7 +67,6 @@ h2 {
 }
 
 p {
-
     font-family: 'big shoulders', sans-serif;
     text-align: center;
     color: white;
@@ -76,11 +74,9 @@ p {
 }
 
 .site-logo {
-    
     font-size: 280%;
     margin-left: 30px;
     color: white;
-
 }
 
 .logo a {
@@ -94,7 +90,7 @@ p {
     letter-spacing: 3px;
     display: flex;
     flex-direction: row;
-    flex-wrap:nowrap;
+    flex-wrap: nowrap;
 }
 
 #menu,
@@ -172,9 +168,6 @@ p {
     text-underline-offset: 0.25em;
 }
 
-
-
-
 /* gallery */
 
 #gallery {
@@ -213,8 +206,6 @@ p {
     text-decoration: underline;
     text-underline-offset: 0.25em;
 }
-
-
 
 .rectangle-container-left {
     height: 300px;
@@ -283,11 +274,9 @@ footer {
     background: white;
 }
 
-
-
 /* media queries */
-
 /* for smaller screens from 800px */
+
 @media (max-width: 800px) {
     .header {
         position: relative;
@@ -314,7 +303,6 @@ footer {
     .flex-row,
     #menu {
         flex-direction: column;
-
     }
 
     /* mobile menu display */
@@ -336,10 +324,10 @@ footer {
 }
 
 /* for larger screens from 1200px */
+
 @media (max-width: 1200px) and (min-width: 801px) {
     .item-col {
         flex: 50%;
-
     }
 
     .header {
