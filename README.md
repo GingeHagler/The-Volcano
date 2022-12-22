@@ -1,6 +1,6 @@
-The Volcano 
+# The Volcano 
 
-The Volcano is a website for a garage gym providing personal training sessions. The gym sessions are aimed at people who want to get fit and train hard. A large inspriration behind the gym is the fomer middleweight champion boxer Marvelous Marvin Hagler. You can view the live site here <>.
+The Volcano is a website for a garage gym providing personal training sessions. The gym sessions are aimed at people who want to get fit, strong and train hard. A large inspriration behind the gym is the fomer middleweight champion boxer Marvelous Marvin Hagler. You can view the live site here [The Volcano](https://gingehagler.github.io/The-Volcano/)
 
 Features
 
