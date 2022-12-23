@@ -111,7 +111,8 @@ p {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid white;
+    text-underline-offset: 0.25em;
 }
 
 .active {
