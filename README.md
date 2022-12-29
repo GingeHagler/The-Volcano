@@ -10,6 +10,9 @@ The Volcano is a website for a garage gym providing personal training sessions. 
     * The Volcano logo is featured in the top left hand corner. The logo is fixed on all size screens as users scroll through the site and links back to the top of the page.  
     * The menu navigation links, Home, Sessions, Gallery, Testimonials and Contact, are positioned to the right hand side of this section and these link to their respective sections on the same page. 
     * As the screen size is reduced the logo and menu links are centred.
+* Favicon - A Volcano favicon is featured to provide an image in the the tabs header. This helps users identify the site should they have several tabs open.
+* Responsive design
+
 
 ### The Header
 
@@ -52,7 +55,14 @@ The Volcano is a website for a garage gym providing personal training sessions. 
 ### Testing
 * The site has been tested and works across Chrome, Safari and Edge browsers
 * The site has been tested across on all standard screen sizes using devtools. It functions correctly, is easy to view and responsive.
-*  The phone number and email address within the contact section have been tested to confirm they are clickable links. 
+    * Testing Procedure 
+    1. Open browser and navigate to The Volcano
+    2. Open developer tools by right clicking and selecting 'inspect'
+    3. Set to responsive and decrease width to 320px
+    4. Set Zoom to 50%
+    5. Click and drag responsive window to the maximum width 
+*  The phone number and email address within the contact section have been tested to confirm they are clickable working links. 
+* Navigation links were tested to ensure all link correctly to their respective pages so the user is always taken to the correct destination. This was done by clicking on the navigation links on each page. All links navigate to the correct pages. 
 
 ### Bugs
 * Solved Bugs 
