@@ -55,12 +55,12 @@ The Volcano is a website for a garage gym providing personal training sessions. 
 ### Testing
 * The site has been tested and works across Chrome, Safari and Edge browsers
 * The site has been tested across on all standard screen sizes using devtools. It functions correctly, is easy to view and responsive.
-    * Testing Procedure 
-    1. Open browser and navigate to The Volcano
-    2. Open developer tools by right clicking and selecting 'inspect'
-    3. Set to responsive and decrease width to 320px
-    4. Set Zoom to 50%
-    5. Click and drag responsive window to the maximum width 
+* Testing Procedure:  
+1. Open browser and navigate to The Volcano
+2. Open developer tools by right clicking and selecting 'inspect'
+3. Set to responsive and decrease width to 320px
+4. Set Zoom to 50%
+5. Click and drag responsive window to the maximum width 
 *  The phone number and email address within the contact section have been tested to confirm they are clickable working links. 
 * Navigation links were tested to ensure all link correctly to their respective pages so the user is always taken to the correct destination. This was done by clicking on the navigation links on each page. All links navigate to the correct pages. 
 
